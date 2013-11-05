@@ -12,7 +12,7 @@ import java.awt.event.KeyListener;
 import javax.swing.JPanel;
 
 import tsp.game.Player;
-
+//test
 public class Canvas extends JPanel implements KeyListener{
 	Player player = new Player();
 
