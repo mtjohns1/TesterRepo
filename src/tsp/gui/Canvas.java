@@ -19,7 +19,7 @@ public class Canvas extends JPanel implements KeyListener{
 	private MainWindow mainWindow;
 	
 	Graphics background;
-	baseImage backgroundImage = new baseImage(0,0,"baseBackground.jpg",false);
+	baseImage backgroundImage = new baseImage(0,0,"baseBackground.jpg");
 	Image offScreenImage;
 	int imageX,imageY =0;
 
